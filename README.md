@@ -1,2 +1,2 @@
-# tigiStudy
-공부용 Repository
+# tagiStudy
+Java Study Repository
